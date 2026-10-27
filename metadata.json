@@ -1,0 +1,6 @@
+{
+  "name": "VulnHunter - سامانه کراولر و رصد آسیب‌پذیری‌های امنیتی",
+  "description": "سامانه هوشمند کراول، تحلیل و مصورسازی آسیب‌پذیری‌های امنیتی (CVE) از مراجع معتبر جهانی (CISA KEV, GitHub Advisory, NVD, OSV)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
